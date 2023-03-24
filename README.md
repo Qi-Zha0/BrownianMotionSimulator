@@ -7,3 +7,5 @@ Usage:
 example.py -f <GIF_FILENAME>
 # e.g. example.py -f brownian.gif
 ``` 
+
+[example of generated gif](example.gif)
